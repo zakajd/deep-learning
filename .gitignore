@@ -1,2 +1,3 @@
 # Ignore folder data/ with heavy datasets
 data/
+.ipynb_checkpoints
